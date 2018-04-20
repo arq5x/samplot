@@ -14,6 +14,10 @@ All of these are available from [pip](https://pypi.python.org/pypi/pip).
 
 Samplot requires either BAM files or CRAM files as primary input (if you use CRAM, you'll also need a reference genome like one used the the 1000 Genomes Project (ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/reference/human_g1k_v37.fasta.gz). Follow the usage examples below to format your commands.
 
+## Assumptions:
+
+* An associated index file is available for each BAM or CRAM file.
+
 ## Usage Examples: 
 
 
